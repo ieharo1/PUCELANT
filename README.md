@@ -1,27 +1,57 @@
-# Pucelant
+# 🌐 PUCELANT
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
+Proyecto Angular para aplicación web desarrollado por **Isaac Esteban Haro Torres**.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 📝 Descripción
 
-## Code scaffolding
+Aplicación web desarrollada con Angular para la PUCELANT (Pontificia Universidad Católica del Ecuador - Latacunga).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## ✨ Características
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Interfaz de usuario moderna
+- Gestión de contenidos
+- Diseño responsive
+- SPA (Single Page Application)
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🛠️ Stack Tecnológico
 
-## Running end-to-end tests
+- Angular
+- TypeScript
+- HTML5/CSS3
+- Node.js
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 🚀 Configuración y Ejecución
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+# Instalar dependencias
+npm install
+
+# Ejecutar desarrollo
+ng serve
+
+# Compilar producción
+ng build
+```
+
+---
+
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
+
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
+
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+
+---
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
